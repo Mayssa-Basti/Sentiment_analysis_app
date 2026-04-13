@@ -1,0 +1,82 @@
+text,sentiment,emotion
+I am very happy today,positive,joy
+I feel amazing and excited,positive,joy
+This is the best day ever,positive,joy
+I feel calm and peaceful,positive,joy
+I am grateful and relaxed,positive,joy
+I am smiling and full of energy,positive,joy
+I feel really good today,positive,joy
+Everything is going well,positive,joy
+I feel optimistic and motivated,positive,joy
+I am proud of myself,positive,joy
+Je suis très heureux aujourd'hui,positive,joy
+Je me sens bien et motivé,positive,joy
+Je suis calme et en paix,positive,joy
+Je suis reconnaissant et serein,positive,joy
+Je me sens super bien,positive,joy
+I am sad,negative,sadness
+I am so sad,negative,sadness
+I feel really sad today,negative,sadness
+I feel empty and alone,negative,sadness
+I had a terrible day,negative,sadness
+I feel broken inside,negative,sadness
+I want to cry,negative,sadness
+Nothing feels good anymore,negative,sadness
+I feel hopeless and tired,negative,sadness
+I feel low and depressed,negative,sadness
+Je suis triste,negative,sadness
+Je me sens très triste,negative,sadness
+Je me sens mal aujourd'hui,negative,sadness
+Je veux pleurer,negative,sadness
+Je me sens vide et seul,negative,sadness
+Je n'ai pas passé une bonne journée,negative,sadness
+Je me sens très mal à l'aise,negative,sadness
+Je suis épuisé mentalement,negative,sadness
+I am angry,negative,anger
+I am so angry right now,negative,anger
+This makes me furious,negative,anger
+I hate this situation,negative,anger
+I am frustrated and mad,negative,anger
+I feel rage inside,negative,anger
+Je suis en colère,negative,anger
+Je suis très énervé,negative,anger
+Cette situation me rend fou,negative,anger
+Je déteste ça,negative,anger
+I am anxious,negative,fear
+I feel scared,negative,fear
+I am afraid of what will happen,negative,fear
+I feel unsafe and worried,negative,fear
+I am panicking,negative,fear
+I feel fear all the time,negative,fear
+Je suis anxieux,negative,fear
+J'ai peur,negative,fear
+Je me sens en danger,negative,fear
+Je panique,negative,fear
+I am stressed,negative,stress
+I feel overwhelmed,negative,stress
+There is too much pressure on me,negative,stress
+I can't handle everything,negative,stress
+I am mentally exhausted,negative,stress
+I feel burned out,negative,stress
+Je suis stressé,negative,stress
+Je me sens sous pression,negative,stress
+Je suis débordé,negative,stress
+Je n'arrive plus à gérer,negative,stress
+I am okay,neutral,stress
+I feel normal,neutral,stress
+Nothing special today,neutral,stress
+Today is average,neutral,stress
+I am just here,neutral,stress
+Ça va,neutral,stress
+Je me sens normal,neutral,stress
+Rien de spécial aujourd'hui,neutral,stress
+Aujourd'hui est une journée normale,neutral,stress
+I am happy and sad at the same time,neutral,sadness
+I don't know how I feel,neutral,stress
+I feel mixed emotions,neutral,stress
+Je suis heureux et triste en même temps,neutral,sadness
+Je ne sais pas comment je me sens,neutral,stress
+I am so sad and I didn't have a good day,negative,sadness
+Je suis triste et je n'ai pas passé une bonne journée,negative,sadness
+I feel very bad and exhausted,negative,sadness
+Je me sens très mal et épuisé,negative,sadness

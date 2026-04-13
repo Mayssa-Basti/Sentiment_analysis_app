@@ -1,0 +1,17 @@
+datetime,text,sentiment,emotion,wellbeing_score
+2026-04-01 20:01:22,Je suis heureuse,negative,sadness,0.0
+2026-04-01 20:03:17,I had a long day and i am feeling a long day,negative,sadness,8.8
+2026-04-01 20:16:05,Je suis tres triste aujourd hui,negative,sadness,0.0
+2026-04-01 20:17:11,I am so tired i had a long day i am sad,negative,sadness,0.0
+2026-04-01 22:30:14,Je suis heureuse,positive,joy,44.8
+2026-04-01 22:31:31,je suis heureuse ,positive,joy,44.8
+2026-04-05 10:56:36,je me sens tres stresse,negative,stress,0.0
+2026-04-05 11:00:31,je suis tres stresse,negative,stress,0.0
+2026-04-05 12:13:09,je suis tres stresse,negative,stress,0.0
+2026-04-05 12:13:37,Je suis tres triste j ai une journee tres fatiguante ,negative,sadness,0.0
+2026-04-09 13:05:58,I am feeling so stressed and i am having a bad day,negative,sadness,0.0
+2026-04-09 13:07:04,I am so stressed and i am having a bad day i am feeling so tired,negative,sadness,0.0
+2026-04-13 17:57:38,roua est tres stresse elle est mal a l'aise,negative,sadness,0.0
+2026-04-13 18:11:43,yasmine est tres heureuse . elle se sent la joie l'amour elle aime la vie,positive,joy,33.5
+2026-04-13 19:03:03,I am really happy today! Everything is going great and I feel amazing.,positive,joy,86.1
+2026-04-13 19:04:38,"Today I felt really stressed because of my exams, and I wasn’t confident at all. But later, I talked to my friend and it made me feel a bit better. Now I’m still a little tired, but also hopeful about tomorrow.",positive,stress,21.6
